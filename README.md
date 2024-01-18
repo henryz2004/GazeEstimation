@@ -1,7 +1,9 @@
-## Eyetracking and Facial Expression-Driven Human Computer Interaction
+# Eyetracking and Facial Expression-Driven Human Computer Interaction
 Hengyuan (Henry) Zhang, Kevin Kwan, May Kalnik, Hari Humaran
 
 This project was initially created for CS 4644 Deep Learning at Georgia Tech.
+
+## Read our ![Final Report](https://github.com/henryz2004/GazeEstimation/blob/main/Final%20Report.pdf)
 
 Some of the contents of this repository is forked from https://github.com/hysts/pytorch_mpiigaze_demo with additional modifications and does not contain some of the notebooks used to train our models.
 
@@ -12,12 +14,6 @@ Next, make sure you have cMake installed before running `python setup.py install
 Original Repo: https://github.com/hysts/pytorch_mpiigaze_demo
 
 # A demo program of gaze estimation models (MPIIGaze, MPIIFaceGaze, ETH-XGaze)
-
-[![PyPI version](https://badge.fury.io/py/ptgaze.svg)](https://pypi.org/project/ptgaze/)
-[![Downloads](https://pepy.tech/badge/ptgaze)](https://pepy.tech/project/ptgaze)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kevin-Kwan/pytorch_mpiigaze_demo/blob/master/demo.ipynb)
-[![MIT License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/hysts/pytorch_mpiigaze_demo.svg?style=flat-square&logo=github&label=Stars&logoColor=white)](https://github.com/hysts/pytorch_mpiigaze_demo)
 
 With this program, you can run gaze estimation on images and videos.
 By default, the video from a webcam will be used.
