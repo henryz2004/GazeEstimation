@@ -3,7 +3,7 @@ Hengyuan (Henry) Zhang, Kevin Kwan, May Kalnik, Hari Humaran
 
 This project was initially created for CS 4644 Deep Learning at Georgia Tech.
 
-## Read our ![Final Report](https://github.com/henryz2004/GazeEstimation/blob/main/Final%20Report.pdf)
+## Read our [Final Report](https://github.com/henryz2004/GazeEstimation/blob/main/Final%20Report.pdf)
 
 Some of the contents of this repository is forked from https://github.com/hysts/pytorch_mpiigaze_demo with additional modifications and does not contain some of the notebooks used to train our models.
 
