@@ -1,6 +1,8 @@
 # Eyetracking and Facial Expression-Driven Human Computer Interaction
 Hengyuan (Henry) Zhang, Kevin Kwan, May Kalnik, Hari Humaran
 
+![Architecture](https://github.com/henryz2004/GazeEstimation/blob/76c86e99a06a001beafbf0d20ac755f2e59c47c0/PotentialArchitectures%20(1).png)
+
 This project was initially created for CS 4644 Deep Learning at Georgia Tech.
 
 ## Read our [Final Report](https://github.com/henryz2004/GazeEstimation/blob/main/Final%20Report.pdf)
